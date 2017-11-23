@@ -1,0 +1,13 @@
+body {
+	font: 16px sans-serif;
+}
+
+.canton-boundary {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+#geomap { 
+  width: 1000px;
+  height: 800px; }
