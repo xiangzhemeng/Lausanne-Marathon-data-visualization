@@ -8,6 +8,8 @@
 
 - **Project Process Book:** [Process book](https://docs.google.com/document/d/1EHYNqUvYV9NgqAxjGbxRVW45st_6JBvdjYkWUG8atMQ/edit?usp=sharing)
 
+Our process book's PDF version is also available in our git repository.
+
 - **Project Demonstration Screencast:** [Screencast](https://zejo.ch/dv/cast_music.mp4)
 
 ### Abstract
